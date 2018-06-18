@@ -39,5 +39,5 @@
        - Exploration (more information) V.S Exploitation (Immediate Value)
        - repeat process ( collect data, update probabilities.. ) until find best one on the fly
        
-- [ ] Re-Play [SQL](https://www.datacamp.com/courses/querying-with-transact-sql)
-   - Just start a few today
+- [x] Re-Play [SQL](https://courses.edx.org/courses/course-v1:Microsoft+DAT201x+1T2018a/progress)
+   - Finish Lab 1 today
